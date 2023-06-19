@@ -1,4 +1,4 @@
-FROM postgres:10.4-alpine@sha256:b00851e5a07b910a18f9211cec807a1256cec38bbf7aa06859aba79acf79b3a8
+FROM postgres:10.23-alpine@sha256:63cfb6eac6b362c7c994f22c3804c61b31898cf0cb52f8e7e86bd99a244f4366
 
 MAINTAINER Leonardo Gatica <lgatica@protonmail.com>
 
